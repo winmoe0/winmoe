@@ -5,7 +5,7 @@ English Teacher
 ---------------
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [My CV](http://winmoe0.github.io/winmoe/)
+* 🖥️  See my CV at [My CV](http://winmoe0.github.io/winmoe/)
 * ✉️  You can contact me at [minwinmoe123@gmail.com](mailto:minwinmoe123@gmail.com)
 * 🧠  I'm currently learning English Communication Arts at Payap University
 
